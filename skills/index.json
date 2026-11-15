@@ -1,0 +1,15 @@
+{
+  "skills": [
+    {
+      "name": "ajo-sql-query",
+      "version": "1",
+      "files": [
+        "SKILL.md",
+        "references/datasets-and-joins.md",
+        "references/fields.md",
+        "references/message-feedback-field-dictionary.md",
+        "references/query-patterns.md"
+      ]
+    }
+  ]
+}
