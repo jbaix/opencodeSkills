@@ -2,7 +2,7 @@
   "skills": [
     {
       "name": "ajo-sql-query",
-      "version": "1",
+      "version": "2",
       "files": [
         "SKILL.md",
         "references/datasets-and-joins.md",
