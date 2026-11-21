@@ -1,6 +1,28 @@
 {
   "skills": [
     {
+      "name": "adobe-experience-platform",
+      "version": "1",
+      "files": [
+        "SKILL.md",
+        "scripts/aep-get.ps1",
+        "scripts/aep-session.ps1",
+        "references/catalog-and-datasets.md",
+        "references/conventions.md",
+        "references/destination-authoring.md",
+        "references/flow-service.md",
+        "references/governance-and-audit.md",
+        "references/identity-and-profile.md",
+        "references/index.md",
+        "references/query-service.md",
+        "references/reactor.md",
+        "references/sandbox.md",
+        "references/schema-registry.md",
+        "references/segmentation.md",
+        "references/sensei-machine-learning.md"
+      ]
+    },
+    {
       "name": "ajo-sql-query",
       "version": "2",
       "files": [
